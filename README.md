@@ -34,20 +34,18 @@ The primary objectives of this analysis are:
    - Gauges to visualize restaurant ratings and costs
    - Navigation buttons for an intuitive user experience
 7. Publishing & Accessibility:
-   - Publish the report on Power BI Service
-   - Generate a public link for browser access
-   - Optimize the report for mobile viewing
+   - Publish the report On netlify
 
  🏗 Dataset Details
 The dataset consists of multiple Excel files containing restaurant information across different continents. Key tables include:
-- **Restaurant Data**: Restaurant name, address, city, country, cuisines, average cost, rating, etc.
-- **Geographic Data**: Country codes and continent mappings.
-- **Fact Table**: Aggregated restaurant-related metrics.
+- Restaurant Data: Restaurant name, address, city, country, cuisines, average cost, rating, etc.
+- Geographic Data: Country codes and continent mappings.
+- Fact Table: Aggregated restaurant-related metrics.
 
  🖥 Tools & Technologies Used
-- **Power BI** (for data visualization and reporting)
-- **Excel** (for data storage and preprocessing)
-- **DAX** (for calculations and aggregations)
+- Power BI (for data visualization and reporting)
+- Excel (for data storage and preprocessing)
+- DAX (for calculations and aggregations)
 
 
 
